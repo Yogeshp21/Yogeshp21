@@ -10,7 +10,7 @@
 
 <li>:handshake: &nbsp;I'm looking for collaborating with people for interesting work as a part of my career.</li>
 <li>:nerd_face: &nbsp;Ask me anything about <strong>JavaScript, React, & Tailwind CSS</strong>.</li>
-<li>:inbox_tray: &nbsp;You can reach me at <strong><a href="mailto:yogeshpatade2019@gmail.com">reachsagarshah@gmail.com</a></strong>.</li>
+<li>:inbox_tray: &nbsp;You can reach me at <strong><a href="mailto:yogeshpatade2019@gmail.com">yogeshpatade2019@gmail.com</a></strong>.</li>
 <li>:iphone: &nbsp;You can find me on Linkedin at <strong><a href='linkedin.com/in/yogeshpatade21'>Linkedin Profile</a></strong>.</li>
 
 </ul>

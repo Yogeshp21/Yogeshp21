@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1 align="center">Hi there :wave:, I'm Yogesh 🐼 </h1>
 
-<!--
-**Yogeshp21/Yogeshp21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">A Passionate Web Developer From Maharashatra, India 👨‍💻</h3>
 
-Here are some ideas to get you started:
+<br/>
+<p><strong>Welcome to my profile! I'm coder by passion & profession :man_technologist:, A calm personality with good command on JavaScript, React, and C++.</strong></p>
+</br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<ul>
+
+<li>:handshake: &nbsp;I'm looking for collaborating with people for interesting work as a part of my career.</li>
+<li>:nerd_face: &nbsp;Ask me anything about <strong>JavaScript, React, & Tailwind CSS</strong>.</li>
+<li>:inbox_tray: &nbsp;You can reach me at <strong><a href="mailto:yogeshpatade2019@gmail.com">reachsagarshah@gmail.com</a></strong>.</li>
+<li>:iphone: &nbsp;You can find me on Linkedin at <strong>linkedin.com/in/yogeshpatade21</strong>.</li>
+
+</ul>

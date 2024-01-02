@@ -27,7 +27,7 @@
   <img height="30" src="https://img.shields.io/badge/Git-red?logo=git&logoColor=fff&style=for-the-badge" />
 </a>
 </div>
-
+</br>
 <ul>
 
 <li>:handshake: &nbsp;I'm looking for collaborating with people for interesting work as a part of my career.</li>

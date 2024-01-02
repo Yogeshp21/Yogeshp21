@@ -52,6 +52,8 @@
 </a>
 </div>
 </br>
+
+<h3 align="left">Connect with me:</h3>
 <ul>
 
 <li>:handshake: &nbsp;I'm looking for collaborating with people for interesting work as a part of my career.</li>

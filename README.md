@@ -12,7 +12,16 @@
   <img height="30" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 </a>
   <a style="text-decoration:none">
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>  
+</a>
+  <a style="text-decoration:none">
+  <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
+</a>
+  <a style="text-decoration:none">
   <img height="30" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+</a>
+  <a style="text-decoration:none">
+  <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/> 
 </a>
 <a style="text-decoration:none">
   <img height="30" src="https://img.shields.io/badge/github-%2320232a?logo=github&logoColor=fff&style=for-the-badge" />
